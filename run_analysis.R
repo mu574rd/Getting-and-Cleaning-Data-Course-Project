@@ -48,4 +48,4 @@ averagestidydataset <- aggregate(tidydataset[, 3:dim(tidydataset)[2]],
                                 mean)
 names(averagestidydataset)[1:2] <- c('Subject', 'Activity')
 
-write.table(averagestidydataset, "tidy_dataset.txt")
+write.table(averagestidydataset, "tidy_dataset.txt", row.name=FALSE)
