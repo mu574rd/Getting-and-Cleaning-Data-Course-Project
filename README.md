@@ -26,8 +26,6 @@ Four files are included for this project:
 
 * run_analysis.R, the R script itself that cleans the provided data, and
 
-* tidy_dataset.txt, the final dataset created by the script.
-
 ## Reference notes
 For this assignment, the student used the following version of R. 
 

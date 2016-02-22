@@ -6,7 +6,7 @@ Please refer to [README](README.md) for additional details.
 
 ### Changes in variable names
 
-The final [tidy dataset](tidy_dataset.txt) contains changes to the labels below. These changes were performed in order to improve human readability. 
+The final tidy dataset contains changes to the labels below. These changes were performed in order to improve human readability. 
 
 * "t" was replaced with "Time"
 
